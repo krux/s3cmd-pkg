@@ -1,0 +1,41 @@
+s3cmd (1.5.0-alpha3krux) stable; urgency=low
+
+  * time to get on the 1.5.x train. chooo.
+
+ -- Charlie Schluting <charlie@krux.com>  Fri, 07 Jun 2013 18:37:13 +0000
+
+s3cmd (1.1.0-beta3krux) stable; urgency=low
+
+  * patching with commit 9c57a3ba2163915deb2cc63cefa885a66ac377ab
+
+ -- Charlie Schluting <charlie@krux.com>  Thu, 04 Oct 2012 17:54:42 +0000
+
+s3cmd (1.1.0-beta3krux) stable; urgency=low
+
+  * imported git tag tarball for s3cmd-v1.1.0-beta3
+
+ -- Charlie Schluting <charlie@krux.com>  Wed, 03 Oct 2012 17:48:52 +0000
+
+s3cmd (1.0.0-4) stable; urgency=low
+
+  * Rebuild on Debian 5 for better compatibility.
+
+ -- Michal Ludvig <mludvig@logix.net.nz>  Thu, 20 Jan 2011 14:45:33 +1300
+
+s3cmd (1.0.0-3) stable; urgency=low
+
+  * More build system changes.
+
+ -- Michal Ludvig <mludvig@logix.net.nz>  Thu, 20 Jan 2011 11:36:12 +1300
+
+s3cmd (1.0.0-2) stable; urgency=low
+
+  * Minor build system changes.
+
+ -- Michal Ludvig <mludvig@logix.net.nz>  Thu, 20 Jan 2011 02:30:01 +1300
+
+s3cmd (1.0.0-1) stable; urgency=low
+
+  * Initial release.
+
+ -- Michal Ludvig <mludvig@logix.net.nz>  Thu, 20 Jan 2011 02:03:13 +1300
